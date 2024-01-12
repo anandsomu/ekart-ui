@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Frontend for the [ecart APP](https://github.com/anandsomu/ecart).
+
+For Problem statement visit the ecart repo mentioned above.
+
+
+
+<br>
+
+## Implementation and Setup
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
